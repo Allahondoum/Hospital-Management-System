@@ -1,0 +1,17 @@
+D:\Inno Projects & Courses\BSc IT Bluecrest\BSc IT Sem 8\Other Projects\HospitalManagement\HospitalManagement\bin\Debug\HospitalManagement.exe.config
+D:\Inno Projects & Courses\BSc IT Bluecrest\BSc IT Sem 8\Other Projects\HospitalManagement\HospitalManagement\bin\Debug\HospitalManagement.exe
+D:\Inno Projects & Courses\BSc IT Bluecrest\BSc IT Sem 8\Other Projects\HospitalManagement\HospitalManagement\bin\Debug\HospitalManagement.pdb
+D:\Inno Projects & Courses\BSc IT Bluecrest\BSc IT Sem 8\Other Projects\HospitalManagement\HospitalManagement\obj\Debug\HospitalManagement.AdminPage.resources
+D:\Inno Projects & Courses\BSc IT Bluecrest\BSc IT Sem 8\Other Projects\HospitalManagement\HospitalManagement\obj\Debug\HospitalManagement.Home.resources
+D:\Inno Projects & Courses\BSc IT Bluecrest\BSc IT Sem 8\Other Projects\HospitalManagement\HospitalManagement\obj\Debug\HospitalManagement.Login.resources
+D:\Inno Projects & Courses\BSc IT Bluecrest\BSc IT Sem 8\Other Projects\HospitalManagement\HospitalManagement\obj\Debug\HospitalManagement.Properties.Resources.resources
+D:\Inno Projects & Courses\BSc IT Bluecrest\BSc IT Sem 8\Other Projects\HospitalManagement\HospitalManagement\obj\Debug\HospitalManagement.csproj.GenerateResource.Cache
+D:\Inno Projects & Courses\BSc IT Bluecrest\BSc IT Sem 8\Other Projects\HospitalManagement\HospitalManagement\obj\Debug\HospitalManagement.exe
+D:\Inno Projects & Courses\BSc IT Bluecrest\BSc IT Sem 8\Other Projects\HospitalManagement\HospitalManagement\obj\Debug\HospitalManagement.pdb
+D:\Inno Projects & Courses\BSc IT Bluecrest\BSc IT Sem 8\Other Projects\HospitalManagement\HospitalManagement\obj\Debug\HospitalManagement.csprojResolveAssemblyReference.cache
+D:\Inno Projects & Courses\BSc IT Bluecrest\BSc IT Sem 8\Other Projects\HospitalManagement\HospitalManagement\obj\Debug\HospitalManagement.DoctorPage.resources
+D:\Inno Projects & Courses\BSc IT Bluecrest\BSc IT Sem 8\Other Projects\HospitalManagement\HospitalManagement\obj\Debug\HospitalManagement.Cashier.resources
+D:\Inno Projects & Courses\BSc IT Bluecrest\BSc IT Sem 8\Other Projects\HospitalManagement\HospitalManagement\obj\Debug\HospitalManagement.Laboratory.resources
+D:\Inno Projects & Courses\BSc IT Bluecrest\BSc IT Sem 8\Other Projects\HospitalManagement\HospitalManagement\obj\Debug\HospitalManagement.Pharmacy.resources
+D:\Inno Projects & Courses\BSc IT Bluecrest\BSc IT Sem 8\Other Projects\HospitalManagement\HospitalManagement\obj\Debug\HospitalManagement.AboutApp.resources
+D:\Inno Projects & Courses\BSc IT Bluecrest\BSc IT Sem 8\Other Projects\HospitalManagement\HospitalManagement\obj\Debug\HospitalManagement.AccountSettings.resources
